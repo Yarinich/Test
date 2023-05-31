@@ -1,0 +1,54 @@
+name: machine
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  # Firebase
+  firebase_auth: 4.5.0
+  firebase_core: 2.11.0
+
+  # Google
+  google_sign_in: 6.1.0
+
+  # Architecture
+  flutter_bloc: 8.1.2
+
+  # Network
+  dio: 5.1.1
+  cr_logger: 2.2.0
+  connectivity_plus: 3.0.6
+
+  # Database
+  hive_generator: 2.0.0
+  hive_flutter: 1.1.0
+
+  # UI
+  recase: 4.1.0
+  render_metrics: 2.0.2
+
+
+  # Others
+  build_runner: 2.3.3
+  equatable: 2.0.5
+  uuid: 3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/
