@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012938841543",
+    "project_id": "machine-d865f",
+    "storage_bucket": "machine-d865f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012938841543:android:c25588049e1345d74b4de2",
+        "android_client_info": {
+          "package_name": "com.michine.machine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012938841543-o3ko8hals8u24lneqvvivvph5n9reoj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michine.machine",
+            "certificate_hash": "377cdfb047afbc899da531c3af76b804a1135752"
+          }
+        },
+        {
+          "client_id": "1012938841543-v03rsol0ft6raviiatbgsbpaefqtpbh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUDY2dj07sfNdB2ZUKRQEcorg_LRaX0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012938841543-v03rsol0ft6raviiatbgsbpaefqtpbh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
